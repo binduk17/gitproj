@@ -1,1 +1,17 @@
 # LINUX COMMANDS
+#
+#
+#
+
+touch <file name> 	----------------->to create new file
+vi <file name>		----------------->to create new file also modify the existing file
+vi <file name>		----------------->to enter into file and write something into it.
+	i 		-----------------> insert mode in vi editor
+esc to execute exit commands in vi editor
+	Exit commands:
+		shift: to enter
+		w to save
+		q to quit
+		! to make buttons disabled during exit
+cat abc			-----------------> to see the content in a file without opening the file. 
+shif + insert		------------------------> to paste the content in git bash  terminal after copying the text.
