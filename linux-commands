@@ -16,3 +16,6 @@ esc to execute exit commands in vi editor
 cat abc			-----------------> to see the content in a file without opening the file. 
 shif + insert		------------------------> to paste the content in git bash  terminal after copying the text.
 pwd
+
+
+date
