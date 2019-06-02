@@ -1,3 +1,7 @@
 created new file for practice
 edited file for branch merging
+<<<<<<< HEAD
 merging concept
+=======
+edited first time
+>>>>>>> r1.1.2019
